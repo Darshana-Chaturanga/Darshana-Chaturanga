@@ -14,11 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 This is second change
-<<<<<<< HEAD
-This is after create myFirstBranch
-This is second change after create myFirstBranch
-This is third change
-=======
-This is Third change
->>>>>>> e9c95f3cce334f21e44796b4c8ab4f6bc7d9ec71
+after xyz
 -->
